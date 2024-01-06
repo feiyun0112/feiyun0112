@@ -1,5 +1,5 @@
 # 欢迎关注我的公众号 ”My IO“
-<img src="https://files-cdn.cnblogs.com/files/feiyun0112/qrcode_for_gh_61af3e28f945_258.bmp">
+<img src="https://raw.githubusercontent.com/feiyun0112/feiyun0112/master/qrcode.jpg">
 </img>
 
 # 微软 MVP
